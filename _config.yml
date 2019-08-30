@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Anton Smilsky"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "A recent college graduate, eager to explore the depths of data science and analytics."
   location         : "Kyiv, Ukraine"
   email            :
@@ -292,7 +292,7 @@ defaults:
       comments: # true
       share: true
       related: true
-
+  # _pages
   - scope:
       path: ""
       type: pages
