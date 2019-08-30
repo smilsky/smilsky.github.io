@@ -7,4 +7,4 @@ header:
   image: "/images/about.jpg"
 ---
 
-{% include base_path %}
+{% include absolute_url %}
