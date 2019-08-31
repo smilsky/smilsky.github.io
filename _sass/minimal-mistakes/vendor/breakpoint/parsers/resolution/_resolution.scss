@@ -29,7 +29,7 @@
     @if unit($value) != 'dppx' {
       $base: 96dpi;
       @if unit($value) == 'dpcm' {
-        $base: 400.84dpcm;
+        $base: 300.84dpcm;
       }
       // Write out feature tests
       $webkit: '';
