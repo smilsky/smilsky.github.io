@@ -19,18 +19,3 @@ div#main {
     max-width: 1600px;
   }
 }
-
-@media (min-width: 64em) {
-.author__avatar {
-    padding: 5px;
-    border: 1px solid #f2f3f3;
-}
-
-.author__avatar {
-    max-width: 200px;
-    border-radius: 50%;
-}
-.sidebar {
-    width: 100%;
-}
-}
