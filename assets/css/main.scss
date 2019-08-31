@@ -19,3 +19,10 @@ div#main {
     max-width: 1600px;
   }
 }
+
+@media (min-width: 64 em) {
+    .author__avatar img {
+    max-width: 200px;
+    border-radius: 50%;
+  }
+}
