@@ -7,7 +7,9 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@media (min-width: 80em)
+@media (min-width: 80em) {
 .page {
     width: calc(100% - 300px);
-    padding-right: 200px;}
+    padding-right: 200px;
+  }
+}
