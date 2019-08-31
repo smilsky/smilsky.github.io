@@ -21,16 +21,16 @@ div#main {
 }
 
 @media (min-width: 64em) {
-.author__avatar img {
+.author__avatar {
     padding: 5px;
     border: 1px solid #f2f3f3;
 }
 
-.author__avatar img {
+.author__avatar {
     max-width: 200px;
     border-radius: 50%;
 }
-.sidebar img {
+.sidebar {
     width: 100%;
 }
 }
