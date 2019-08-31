@@ -11,11 +11,10 @@
 .page {
     width: calc(100% - 300px);
     padding-right: 200px;
-    max-width: 1600px;
-  }
+    }
 }
 
 @media (min-width: 80em)
-#main {
+div#main {
     max-width: 1600px;
   }
