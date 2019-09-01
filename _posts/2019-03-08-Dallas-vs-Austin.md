@@ -135,8 +135,8 @@ The given bargraph is shown below:
 <img src="/images/dallas-austin/3.JPG" alt="">
 
 ### Associations
-    Here I tried to find associations between the terms.
-    ```r
+Here I tried to find associations between the terms.
+```r
     term = 'austin' # most frequent term
     ausnet1=as.data.frame(findAssocs(austinTDM, term, 0.40))
     ausnet1=cbind(term, rownames(ausnet1), ausnet1)
@@ -193,9 +193,9 @@ Based on the above analysis, the conclusions for Austin are the following:
 * More Outdoorsy
 * Many Californian Transplants
 * Weird
-* Higher Cost of Living
+- Higher Cost of Living
 For Dallas the following conclusions were drawn:
 * Growing Urban Core
 * Less Expensive
 * DFW airport
-* Many comments about moving there
+- Many comments about moving there
