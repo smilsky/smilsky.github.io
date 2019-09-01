@@ -193,9 +193,10 @@ Based on the above analysis, the conclusions for Austin are the following:
 * More Outdoorsy
 * Many Californian Transplants
 * Weird
-- Higher Cost of Living
+* Higher Cost of Living
+
 For Dallas the following conclusions were drawn:
 * Growing Urban Core
 * Less Expensive
 * DFW airport
-- Many comments about moving there
+* Many comments about moving there
