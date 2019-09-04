@@ -122,12 +122,12 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Linked-In"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/smilsky/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/smilsky"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -135,6 +135,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:anton@ou.edu
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -153,6 +156,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linked-In"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/smilsky/
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/smilsky"
 
 
 # Reading Files
