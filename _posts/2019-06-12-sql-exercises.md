@@ -1,10 +1,11 @@
+---
 title: "SQL Exercises"
 date: 2019-06-12
 tags: [data analytics]
 header:
   image: "/images/SQL/SQL.jpg"
 excerpt: "SQL, practice queries"
-
+---
 This is an example of the SQL querying that I have done in the past. The following queries are written using BigQuery syntax, since the databases are the ones that are publicly available on BigQuery.
 
 ### bigquery-public-data.hacker_news.comments
